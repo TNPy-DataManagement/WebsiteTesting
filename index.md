@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome 
 
 You can use the [editor on GitHub](https://github.com/TNPy-DataManagement/WebsiteTesting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,7 +18,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
+1. Num
 2. List
 
 **Bold** and _Italic_ and `Code` text
